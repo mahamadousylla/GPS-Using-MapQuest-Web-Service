@@ -1,4 +1,4 @@
-#Mahamadou Sylla 61549479
+#Mahamadou Sylla
 
 class Steps:
     def lookup(self, json_object):
